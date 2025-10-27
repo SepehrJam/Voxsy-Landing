@@ -1,13 +1,38 @@
-# React + Vite
+# 🚀 Voxsy Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive landing page for **Voxsy**, built with **React**, **Tailwind CSS**, and **Vite**.  
+This project focuses on speed, clean design, and developer-friendly code — perfect for startups and SaaS products.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🧠 Overview
 
-## Expanding the ESLint configuration
+Voxsy Landing Page is a fast, SEO-friendly, and visually appealing front-end project designed to showcase your product or service in a professional way.  
+The layout is fully responsive and optimized for all devices, built using best practices in modern frontend development.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-"# vix" 
+---
+
+## ⚙️ Tech Stack
+
+- ⚛️ **React** – Component-based UI library  
+- 🎨 **Tailwind CSS** – Utility-first CSS framework for rapid UI development  
+- ⚡ **Vite** – Next-generation frontend tooling for fast builds and hot reloading  
+
+---
+
+## 🛠️ Installation & Setup
+
+Follow these steps to run the project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/voxsy-landing.git
+
+# Navigate into the project directory
+cd voxsy-landing
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run start:dev
